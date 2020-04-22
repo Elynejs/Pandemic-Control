@@ -1,0 +1,1 @@
+global.gameSpeed = game_get_speed(gamespeed_microseconds);

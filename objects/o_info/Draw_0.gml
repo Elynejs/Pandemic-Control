@@ -1,0 +1,16 @@
+draw_set_color(c_black);
+draw_set_font(font_info);
+draw_text(x + 5,y,"NAME");
+draw_text(x + 5,y + 20,global.region);
+draw_text(x + 5,y + 50,"POPULATION");
+draw_text(x + 5,y + 70,string(global.population));
+draw_text(x + 5,y + 100,"CASES");
+draw_text(x + 5,y + 120,string(global.total_cases));
+draw_text(x + 5,y + 150,"CURED");
+draw_text(x + 5,y + 170,string(global.total_cured));
+draw_text(x + 5,y + 200,"DEAD");
+draw_text(x + 5,y + 220,string(global.total_dead));
+draw_text(x + 5,y + 250,"POPULARITY");
+draw_text(x + 5,y + 270,string(global.popularity)+"%");
+draw_text(x + 5,y + 300,"MOVEMENT");
+draw_text(x + 5,y + 320,string(global.DP)+"%");

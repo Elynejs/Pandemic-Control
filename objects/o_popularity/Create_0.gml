@@ -1,0 +1,1 @@
+global.popularity = 100;

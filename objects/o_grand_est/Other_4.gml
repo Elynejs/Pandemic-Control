@@ -1,0 +1,1 @@
+if room == room_main { self.visible = true; };

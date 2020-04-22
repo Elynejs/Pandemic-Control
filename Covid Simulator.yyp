@@ -1,0 +1,1280 @@
+{
+    "id": "f36fc6d6-d398-4ca2-a372-bd1b9d931dc3",
+    "modelName": "GMProject",
+    "mvc": "1.0",
+    "IsDnDProject": false,
+    "configs": [
+        
+    ],
+    "option_ecma": false,
+    "parentProject": {
+        "id": "da7e4ec1-5fad-4bf7-97f8-d0c33bb2074a",
+        "modelName": "GMProjectParent",
+        "mvc": "1.0",
+        "alteredResources": [
+            {
+                "Key": "ed6a955d-5826-4f98-a450-10b414266c27",
+                "Value": {
+                    "configDeltas": [
+                        "inherited"
+                    ],
+                    "id": "8a96a08b-7624-4694-839f-43efbcc912b1",
+                    "resourcePath": "options\\main\\options_main.yy",
+                    "resourceType": "GMMainOptions"
+                }
+            }
+        ],
+        "hiddenResources": [
+            
+        ],
+        "projectPath": "${base_project}"
+    },
+    "resources": [
+        {
+            "Key": "02e58df6-5cf7-448e-97c6-1593311ad5de",
+            "Value": {
+                "id": "745fe0c1-27b9-4034-a98a-56f5c039d708",
+                "resourcePath": "sprites\\spr_economics\\spr_economics.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "042bad07-1461-4411-9a7a-db775259606c",
+            "Value": {
+                "id": "fa7af339-b32c-4434-9ca6-bf97c394bb9a",
+                "resourcePath": "objects\\o_options\\o_options.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "067a345e-d1d4-4ee2-ac49-ea7e73e05799",
+            "Value": {
+                "id": "0d7a9b1b-8a48-43e3-9778-08cc573677db",
+                "resourcePath": "objects\\o_room_social\\o_room_social.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "07afa676-7559-4577-93f6-b5026599eacb",
+            "Value": {
+                "id": "dc6372b1-6b60-42a7-8d95-90377971f296",
+                "resourcePath": "sprites\\spr_popularity\\spr_popularity.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0dd08567-30de-40a6-9e4a-912a7714d25a",
+            "Value": {
+                "id": "76ff0275-3ee0-4e0c-94bc-4e29c56a229d",
+                "resourcePath": "fonts\\font_date\\font_date.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "152fd243-eb05-4698-94fe-5f705f2d57e8",
+            "Value": {
+                "id": "2d534bbb-76d9-4fa8-9dd9-989c88d7b758",
+                "resourcePath": "objects\\o_france\\o_france.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1544fc30-f8fd-4ad2-b5f1-c23b845c451b",
+            "Value": {
+                "id": "8b6e21e2-7103-4ac1-93fe-b361de08feb7",
+                "resourcePath": "sprites\\spr_nouvelle_aquitaine_quarantined\\spr_nouvelle_aquitaine_quarantined.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "15a4efa4-5931-4473-a3a9-92f79045f4f4",
+            "Value": {
+                "id": "21e72288-d1e3-4827-b792-412b0d337e49",
+                "resourcePath": "sprites\\spr_game_paused\\spr_game_paused.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "17b5e50a-5631-447d-87b0-4d18f86b254f",
+            "Value": {
+                "id": "47989faf-b12c-420b-b641-84f4359e743a",
+                "resourcePath": "sprites\\spr_medical_hover\\spr_medical_hover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "18fb4653-9ae6-41e2-84f7-8c824d0881c3",
+            "Value": {
+                "id": "1c3adad3-e5b3-4d50-9b5b-f3c50dfb64e5",
+                "resourcePath": "views\\18fb4653-9ae6-41e2-84f7-8c824d0881c3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "18fbd67d-c220-4bc2-bd7c-8c1a3b674c5d",
+            "Value": {
+                "id": "cb1001ed-ef4c-4623-a097-5503044127f4",
+                "resourcePath": "sprites\\spr_pause\\spr_pause.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1ab7118b-0e92-42cb-899a-f20f57da364e",
+            "Value": {
+                "id": "b30faea6-4a69-4a71-980c-535078348581",
+                "resourcePath": "objects\\o_room_economics\\o_room_economics.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1ce12e84-2f5f-4e16-92f2-e10ace8cee85",
+            "Value": {
+                "id": "9cad7f18-71d2-46de-8904-dd72981244ce",
+                "resourcePath": "sprites\\spr_play_hover\\spr_play_hover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1d9f4813-b3e0-4fc3-b697-f5636947f93d",
+            "Value": {
+                "id": "38af37b4-ff32-45bc-bc39-078baf9e959f",
+                "resourcePath": "sprites\\spr_centre_val_de_loire\\spr_centre_val_de_loire.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1de07a3a-560d-4cc6-aade-d27b35de867b",
+            "Value": {
+                "id": "1d3ab000-4ab1-4478-9d59-34787f1dab33",
+                "resourcePath": "sprites\\spr_occitanie_quarantined\\spr_occitanie_quarantined.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "20a7b65b-1139-438b-84ab-dc71f9d09edd",
+            "Value": {
+                "id": "d1e77148-bd2e-42be-9e46-105a7d6ae8eb",
+                "resourcePath": "fonts\\font_info\\font_info.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "22f8d9ef-5787-4e64-9450-750769b7891f",
+            "Value": {
+                "id": "2f1d6c86-da6e-4a3b-b82c-8ca19680fddc",
+                "resourcePath": "objects\\o_menu_newgame\\o_menu_newgame.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "23379af4-9b7a-4e57-98ed-772c18bcf69c",
+            "Value": {
+                "id": "45155c24-4c4c-4a9b-ab0c-b9f16cac01bc",
+                "resourcePath": "objects\\o_win\\o_win.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "250a4539-f9c9-47c7-8af9-eb740c839aa0",
+            "Value": {
+                "id": "48139313-605c-4017-961b-54aa80b424c2",
+                "resourcePath": "sprites\\spr_nouvelle_aquitaine\\spr_nouvelle_aquitaine.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2577e437-e97b-4b1e-9045-998d4e57903f",
+            "Value": {
+                "id": "c17bfc25-08fd-4684-b35a-cbb081e8354c",
+                "resourcePath": "sprites\\spr_skull\\spr_skull.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "25974b27-2732-4f2d-8bc4-3d6eb65a6d03",
+            "Value": {
+                "id": "677dee0c-8ae6-4290-aafa-ed44f948b28c",
+                "resourcePath": "views\\25974b27-2732-4f2d-8bc4-3d6eb65a6d03.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2629c808-dba4-476a-99cb-202747cbef65",
+            "Value": {
+                "id": "e031875e-a265-4160-b97b-0e2bbd38ba71",
+                "resourcePath": "sprites\\spr_back\\spr_back.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2654daa5-6b04-447d-a773-3bf2624e6d51",
+            "Value": {
+                "id": "cb7790f7-c597-4a2d-b4c9-98260b63a8d3",
+                "resourcePath": "views\\2654daa5-6b04-447d-a773-3bf2624e6d51.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "29026de3-2c2e-422a-a619-0dca298f36f6",
+            "Value": {
+                "id": "488a1042-6057-4f03-8287-42a86d7e870e",
+                "resourcePath": "rooms\\room_game_over\\room_game_over.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "2ba588c6-bdf1-46f3-80ed-9ea69836330a",
+            "Value": {
+                "id": "581039dc-4505-494b-ab40-0756d0cd6961",
+                "resourcePath": "sprites\\spr_button_lockdown\\spr_button_lockdown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2c2fac49-05c8-4675-a4b7-350cf0da306c",
+            "Value": {
+                "id": "ab0e0fda-3cdd-4e27-a684-a048bce958af",
+                "resourcePath": "sprites\\spr_win\\spr_win.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2ef5034c-0a19-41e9-8a0f-bdb041e700dc",
+            "Value": {
+                "id": "6f74f9f7-1083-40a6-9641-8283d0f52374",
+                "resourcePath": "sprites\\spr_haut_de_france_quarantined\\spr_haut_de_france_quarantined.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2fe18ada-71e9-4a53-8852-e75e8a0d983a",
+            "Value": {
+                "id": "1c943e98-a5a1-427c-95c5-d5ccb9659e84",
+                "resourcePath": "sprites\\spr_menu_newgame\\spr_menu_newgame.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "30be7278-2b49-4db8-bffb-bb1f18c98b6f",
+            "Value": {
+                "id": "c34ece46-b374-4437-ad7a-3ef0261a93e0",
+                "resourcePath": "rooms\\room_options\\room_options.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "314897d1-9462-4260-b687-4f67170fffe7",
+            "Value": {
+                "id": "cddc7af9-3442-4362-acf2-eed44c88f809",
+                "resourcePath": "fonts\\font_game_over\\font_game_over.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "32b37c79-bb96-4c03-be99-a4cf331ba435",
+            "Value": {
+                "id": "3d4b5200-f979-441d-8996-9d8e66330db6",
+                "resourcePath": "views\\32b37c79-bb96-4c03-be99-a4cf331ba435.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "37b0a740-de3c-4216-8a81-64b51f8da72b",
+            "Value": {
+                "id": "0a40b003-e5c5-4ac1-9b5b-98d2990de260",
+                "resourcePath": "views\\37b0a740-de3c-4216-8a81-64b51f8da72b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "37b4492a-9a5e-41c6-8ad6-68f5a9f541cb",
+            "Value": {
+                "id": "4da9583a-2602-45ec-901c-653156dbcbdd",
+                "resourcePath": "views\\37b4492a-9a5e-41c6-8ad6-68f5a9f541cb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "37dd9c62-b38e-4e19-8460-53be0cff0b97",
+            "Value": {
+                "id": "6eab0c9b-cf13-4401-adb0-5408459aa947",
+                "resourcePath": "sprites\\spr_menu_title\\spr_menu_title.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3a129240-5bfa-4c1a-ba80-637765cf2ce0",
+            "Value": {
+                "id": "a4eec3ce-d58c-4a4a-916a-009827a1eca4",
+                "resourcePath": "views\\3a129240-5bfa-4c1a-ba80-637765cf2ce0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3a5af38c-757d-41ae-98c0-5d4b09e14e6a",
+            "Value": {
+                "id": "a17c0fbd-5cc4-4db8-a900-baff7e25fe40",
+                "resourcePath": "options\\switch\\options_switch.yy",
+                "resourceType": "GMSwitchOptions"
+            }
+        },
+        {
+            "Key": "3a5af38c-757d-44ae-98c0-5d4b09e14e6a",
+            "Value": {
+                "id": "9940267f-ea61-4494-88a4-c5e6ffd22573",
+                "resourcePath": "options\\ps4\\options_ps4.yy",
+                "resourceType": "GMPS4Options"
+            }
+        },
+        {
+            "Key": "3bbbb31a-2cbe-4ec0-9cbc-5983f5110fc7",
+            "Value": {
+                "id": "20175698-baa4-45da-926f-8404fd3f08f3",
+                "resourcePath": "sprites\\spr_info\\spr_info.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3d99400c-cd4b-4c9b-8ded-e739f579ad77",
+            "Value": {
+                "id": "4becf7fb-70d3-412a-b657-b6567c781491",
+                "resourcePath": "objects\\o_centre_loire\\o_centre_loire.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3e7bf349-9fb8-4dcd-858e-aaf67c42d292",
+            "Value": {
+                "id": "2c450688-4887-4a58-bbdc-b2606f1d4bfc",
+                "resourcePath": "sprites\\spr_auverne_rhone_alpes_quarantined\\spr_auverne_rhone_alpes_quarantined.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3ec1259d-e063-43f1-8f8f-76c452573ef8",
+            "Value": {
+                "id": "e9276ba2-4d7f-4b38-928b-60e077815c4f",
+                "resourcePath": "objects\\o_score\\o_score.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4068bb44-aae2-4589-a3dc-d39de6043774",
+            "Value": {
+                "id": "b2aa8ee0-70f0-4d8f-ab28-49bd91415798",
+                "resourcePath": "views\\4068bb44-aae2-4589-a3dc-d39de6043774.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "45be0573-d698-4521-8c31-43c854898014",
+            "Value": {
+                "id": "7e2bfc43-0047-4245-a7f8-f1133d1fff8a",
+                "resourcePath": "sprites\\spr_grand_est\\spr_grand_est.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "46b7137a-fbeb-409f-8a18-f0b3d22dc544",
+            "Value": {
+                "id": "32a80fb3-6935-4a08-9ced-549214f436a8",
+                "resourcePath": "sprites\\spr_selecting_region\\spr_selecting_region.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "46f4f4a0-c32b-422b-950d-e01668a638cd",
+            "Value": {
+                "id": "c292632b-2a82-4120-93de-113b516b6cc8",
+                "resourcePath": "objects\\o_grand_est\\o_grand_est.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "477f03ac-ba71-4288-b6b5-53dd0dac3fc8",
+            "Value": {
+                "id": "9f361f3b-fbe8-49ce-a2dd-af800b576673",
+                "resourcePath": "views\\477f03ac-ba71-4288-b6b5-53dd0dac3fc8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "48383633-9a6a-4825-8343-a5775fa5ac74",
+            "Value": {
+                "id": "3041a291-edad-4393-800e-8b82132bf515",
+                "resourcePath": "objects\\o_date\\o_date.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "484185a2-e8da-49e3-925d-66cb4482523d",
+            "Value": {
+                "id": "fc1a80f0-40c4-4020-b3c3-c49e6ea0198e",
+                "resourcePath": "rooms\\room_won\\room_won.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "491ac148-9808-4dad-8869-49e7e8010a9c",
+            "Value": {
+                "id": "4d768480-c388-4f7f-8d33-606ac729fedb",
+                "resourcePath": "sprites\\spr_game_over\\spr_game_over.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4ae921b6-6176-4cea-871c-3e32ce60cf95",
+            "Value": {
+                "id": "8bdedde9-e37d-4654-a0ae-e37cb318fea2",
+                "resourcePath": "objects\\o_quarantine\\o_quarantine.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4bf66a47-ed06-4d49-aacb-a6887f7c26b5",
+            "Value": {
+                "id": "ab1d7a2b-90e3-46ec-814d-245f0bb252cf",
+                "resourcePath": "objects\\o_paca\\o_paca.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4cc900e3-dc03-4e79-ad06-809659732de5",
+            "Value": {
+                "id": "6388fb45-195d-4b26-a2eb-889d1eabb780",
+                "resourcePath": "views\\4cc900e3-dc03-4e79-ad06-809659732de5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4f71798e-60fe-44f6-a45f-b217b7c1a497",
+            "Value": {
+                "id": "0b025649-3c02-44a2-a5db-a637da4dd265",
+                "resourcePath": "sprites\\spr_pays_de_la_loire\\spr_pays_de_la_loire.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "52e2f4c9-bca2-481f-b9da-1f954f639a3b",
+            "Value": {
+                "id": "a25bd2f9-2ada-4d5a-b53c-52ccf9400774",
+                "resourcePath": "objects\\o_bretagne\\o_bretagne.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5435a96a-1636-4d6b-8c2e-3ff1a91a814b",
+            "Value": {
+                "id": "9b7a82e9-b611-4b9a-be4c-ade1403306f9",
+                "resourcePath": "views\\5435a96a-1636-4d6b-8c2e-3ff1a91a814b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "58576503-6fd5-4ccd-a71b-7b95881033ac",
+            "Value": {
+                "id": "d15a60d2-3905-4f2e-8c6f-e46070ed7cfd",
+                "resourcePath": "views\\58576503-6fd5-4ccd-a71b-7b95881033ac.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5c92bb28-97ee-4452-84c7-6629333d6e0a",
+            "Value": {
+                "id": "084afa5f-5a8b-4228-8a65-7f62f2644f89",
+                "resourcePath": "fonts\\font_pause\\font_pause.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "5df6125e-9a60-4444-999a-00cc30f5049d",
+            "Value": {
+                "id": "7d792b38-a7e5-40f3-b57a-ef0e0d8f6606",
+                "resourcePath": "objects\\o_exit\\o_exit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5e285a18-3ea6-4844-9c8e-3fe3d0639b72",
+            "Value": {
+                "id": "fe9ceeff-c7f5-4d87-9681-c5cbf024cc78",
+                "resourcePath": "objects\\o_auvergne\\o_auvergne.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5f59846e-2ce8-4ae8-a925-92d703d467d7",
+            "Value": {
+                "id": "4a90152c-3d08-4d33-b203-dc51f42b75ee",
+                "resourcePath": "fonts\\font_title\\font_title.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "60beb9e8-6418-48a8-b14c-f3fa17e8545b",
+            "Value": {
+                "id": "afe568e3-e016-416a-8345-000b522ab089",
+                "resourcePath": "objects\\o_social\\o_social.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "614c2e0b-b56f-4ffd-91ef-88194cad0d43",
+            "Value": {
+                "id": "42c99bf1-f2b4-48a6-9031-36e146ae445e",
+                "resourcePath": "objects\\obj_console\\obj_console.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "62483276-273c-4742-9d10-ee662507c50f",
+            "Value": {
+                "id": "c5c93e93-bf01-479d-a969-6b991af649fc",
+                "resourcePath": "scripts\\game_won\\game_won.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "67b11ad9-a069-4726-9368-37515d4142ce",
+            "Value": {
+                "id": "3519e3b4-32a2-4d64-8123-c34e3a408431",
+                "resourcePath": "objects\\o_disease\\o_disease.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "68b42785-47bd-49c3-8311-46e54c48a9b7",
+            "Value": {
+                "id": "3d6291ff-d957-4668-bae7-f85ec64d7209",
+                "resourcePath": "objects\\o_speed\\o_speed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "69023715-27a6-4bbe-9573-e667ac8cc485",
+            "Value": {
+                "id": "95be74c0-e682-40fb-8518-7bb6196442e4",
+                "resourcePath": "sprites\\spr_speed3_hover\\spr_speed3_hover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6c4d4faf-7600-485b-a531-1f74119ab735",
+            "Value": {
+                "id": "4780f12a-56e4-427c-a787-789e20c7bf18",
+                "resourcePath": "sprites\\spr_button_lockdown_hover\\spr_button_lockdown_hover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6dd4222e-1c8f-488b-b696-f349e0a21a94",
+            "Value": {
+                "id": "d5ad9f86-a38f-4741-becb-fe8b11625c62",
+                "resourcePath": "sprites\\spr_centre_val_de_loire_quarantined\\spr_centre_val_de_loire_quarantined.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "73e85c54-112d-45e0-9fa8-a413a5a23533",
+            "Value": {
+                "id": "7e5e231e-2709-453c-ba2d-4e65d575dd9e",
+                "resourcePath": "sprites\\spr_exit_hover\\spr_exit_hover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "75294531-b31f-4456-a2a3-1a1374a7aef2",
+            "Value": {
+                "id": "a006fc1c-2966-4bd5-94a7-7bac4f67629c",
+                "resourcePath": "fonts\\font_mouse_hover\\font_mouse_hover.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "7567882b-95f7-4d35-a40d-7874924ba32b",
+            "Value": {
+                "id": "12fb46d0-1d94-4c8e-84b6-e9f3c315c1e1",
+                "resourcePath": "sprites\\spr_medical\\spr_medical.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
+            "Value": {
+                "id": "4029f775-4bcf-4687-a0c0-0fd351d4696e",
+                "resourcePath": "options\\html5\\options_html5.yy",
+                "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "75f9a61e-af6e-4c7f-b91d-86b398343f45",
+            "Value": {
+                "id": "fa230008-cd1b-48d2-a167-4e737eae18d7",
+                "resourcePath": "objects\\o_pays_loire\\o_pays_loire.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "76de1d3a-02f8-42f7-9ef3-53bd37c11a36",
+            "Value": {
+                "id": "ee0b8c69-4cb1-44c8-983e-675b14302bdf",
+                "resourcePath": "sprites\\spr_social\\spr_social.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "77aad48f-1f2f-4853-98fc-80d6c5f06c2f",
+            "Value": {
+                "id": "89064a0e-d302-4b73-b9cb-cc048a5594e8",
+                "resourcePath": "sprites\\spr_button_quarantine\\spr_button_quarantine.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "780bf964-9a71-4d96-8e70-6f9b3c1a6d94",
+            "Value": {
+                "id": "d5aab4e5-c68a-4f57-91ed-0d847d214885",
+                "resourcePath": "objects\\o_aquitaine\\o_aquitaine.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "78c7c08e-0248-4033-a507-85d3f400e688",
+            "Value": {
+                "id": "57010a19-8b3c-4604-81c7-04c350d32cb7",
+                "resourcePath": "sprites\\spr_play\\spr_play.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "78fc2176-16d4-4b87-890c-b06f11f94029",
+            "Value": {
+                "id": "e319f508-2f47-4e60-9e54-8bc5bc5aa367",
+                "resourcePath": "sprites\\spr_economics_hover\\spr_economics_hover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7b4306dd-33ff-4e17-aae2-89aecc1123f8",
+            "Value": {
+                "id": "65af6989-d05d-43c4-818f-7b5e12aaa95e",
+                "resourcePath": "sprites\\spr_occitanie\\spr_occitanie.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7b6503c0-493c-4132-baa9-e461447e9634",
+            "Value": {
+                "id": "2b1ff6cc-3328-4c23-8b08-1d790c54426d",
+                "resourcePath": "sprites\\spr_normandie_quarantined\\spr_normandie_quarantined.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
+            "Value": {
+                "id": "8355a5f1-7df8-421d-84f3-2c28fec16271",
+                "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
+                "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "7ec7b63b-6254-4e43-936f-578ef10ee7d5",
+            "Value": {
+                "id": "6e559096-0ff0-47b1-80fe-e4c10d6cf34b",
+                "resourcePath": "views\\7ec7b63b-6254-4e43-936f-578ef10ee7d5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7f012c45-d429-449c-90c7-b1364b0d1d3e",
+            "Value": {
+                "id": "46dc5dff-8794-424f-9663-1c82c082a8e7",
+                "resourcePath": "sprites\\spr_options_hover\\spr_options_hover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "828cd422-871e-4885-9e91-c2f0157dd35d",
+            "Value": {
+                "id": "ed101d7b-77a6-4142-83de-2eab4674ff4c",
+                "resourcePath": "scripts\\game_over\\game_over.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "858d4840-36b4-49f0-8051-e7d0d829e267",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "84c84782-cead-4d41-b779-cb841605ba02",
+            "Value": {
+                "id": "612fbe42-287a-4833-abf5-b80ab0dd192c",
+                "resourcePath": "fonts\\font_main\\font_main.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "84dc408c-9d30-40b6-945c-48b54f56f042",
+            "Value": {
+                "id": "852b2e9c-536d-4c27-a2cc-2d38e1d878b7",
+                "resourcePath": "sprites\\spr_speed2_hover\\spr_speed2_hover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "85d64a97-d03b-48f5-857d-4b22ebd161e3",
+            "Value": {
+                "id": "fe99e01a-2947-4fb7-9120-1de026ada1ae",
+                "resourcePath": "sprites\\spr_menu_background_skulls\\spr_menu_background_skulls.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "909ac57d-c345-4317-bb0e-60059fc86ee2",
+            "Value": {
+                "id": "b8914acc-6308-477d-b603-6c3d26d00906",
+                "resourcePath": "objects\\o_info\\o_info.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "910fbe00-6b8e-4a94-b993-104aa0554670",
+            "Value": {
+                "id": "37167668-fdb9-4b98-9c0f-96c236fbff6b",
+                "resourcePath": "views\\910fbe00-6b8e-4a94-b993-104aa0554670.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9284d84d-a86e-49a6-83d5-b793db2c84a0",
+            "Value": {
+                "id": "69b4e50e-f63b-46d1-8167-71d3310a66ce",
+                "resourcePath": "sprites\\spr_france\\spr_france.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "92f44ac1-202d-4ece-8220-6454e3f415a1",
+            "Value": {
+                "id": "66e0f06c-afd4-430e-add1-5dbdfa9d1b8d",
+                "resourcePath": "views\\92f44ac1-202d-4ece-8220-6454e3f415a1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9305aba1-eea8-42c7-9495-fdc1782948f4",
+            "Value": {
+                "id": "95c99c47-4461-4fd9-beb7-6b4eb0048f7a",
+                "resourcePath": "sprites\\spr_bourgogne_franche_comte_quarantined\\spr_bourgogne_franche_comte_quarantined.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "947a1e69-0cd9-441b-abff-f75a7842c87a",
+            "Value": {
+                "id": "3fe50e3e-e58f-4c3e-972e-26abdec2ae3d",
+                "resourcePath": "sprites\\spr_bourgogne_franche_comte\\spr_bourgogne_franche_comte.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "96faec79-4b67-49ea-8749-80d66bbdcd00",
+            "Value": {
+                "id": "14ad744b-ce74-405c-8471-38ddefb2ec92",
+                "resourcePath": "objects\\o_room_medical\\o_room_medical.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "974b5aa1-83ee-4121-b1d6-3fd3556bb932",
+            "Value": {
+                "id": "3c97c134-aeb4-4e61-99d6-d416a934217d",
+                "resourcePath": "sprites\\spr_bretagne\\spr_bretagne.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "99fb606a-84c4-4411-b7fd-24b39daaac87",
+            "Value": {
+                "id": "b268c72f-c3aa-4fa2-9fdf-8ddb27b0d6b9",
+                "resourcePath": "sprites\\spr_social_hover\\spr_social_hover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "99ff12ef-252b-4a5b-a7b5-03843554f767",
+            "Value": {
+                "id": "c8d767b6-db52-43fa-9f61-a5f74f51c3b5",
+                "resourcePath": "sprites\\spr_paca_quarantined\\spr_paca_quarantined.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9cbf190b-c641-4105-90c4-a1ffa5e76ff3",
+            "Value": {
+                "id": "2b285731-bd6c-4bb8-85d0-a479a6d80149",
+                "resourcePath": "objects\\o_pause\\o_pause.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a072ae72-22c4-4f7a-8c01-b75cd16a2f9b",
+            "Value": {
+                "id": "b4004cd3-38ef-4a76-b38b-e1763911a3c6",
+                "resourcePath": "views\\a072ae72-22c4-4f7a-8c01-b75cd16a2f9b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a43b48f4-afce-4e55-9d05-85b9aa8be88f",
+            "Value": {
+                "id": "15a8da8b-500e-4d62-a7f4-c93ed39b5ee0",
+                "resourcePath": "objects\\o_back\\o_back.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a6ae5167-6372-438e-9a1b-b2c0d4825a5a",
+            "Value": {
+                "id": "bd60f891-68d8-4e0c-89a0-ea7e7fc4e5df",
+                "resourcePath": "sprites\\spr_speed\\spr_speed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a773df1d-d9a1-4e8f-87d6-9515f7ef264b",
+            "Value": {
+                "id": "dea0deaf-f4b0-4a21-bb5f-68bc9e292cb3",
+                "resourcePath": "rooms\\room_menu\\room_menu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a7b464ad-ada4-4fc0-aeab-0eda8c523357",
+            "Value": {
+                "id": "0f3abf24-73ed-4461-b1aa-468f31a6afd2",
+                "resourcePath": "views\\a7b464ad-ada4-4fc0-aeab-0eda8c523357.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a8a35a70-5390-495e-97e4-fc4badb316e5",
+            "Value": {
+                "id": "62d1e62e-6810-4100-9271-2d5cfe5f875b",
+                "resourcePath": "sprites\\spr_back_hover\\spr_back_hover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "9a81240e-6710-45fd-9cc5-b669507dc2b6",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ab38492d-96b5-4f13-a975-f798221f97d1",
+            "Value": {
+                "id": "af58ff02-bb11-46ae-8b24-38bec3c72869",
+                "resourcePath": "sounds\\sound_click\\sound_click.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "ab5f72fe-bfce-416c-aed9-485fc265bfde",
+            "Value": {
+                "id": "0697ea2a-5c21-4ad1-8eba-50057d5d884a",
+                "resourcePath": "sprites\\spr_exit\\spr_exit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "acbae815-a37f-4825-ac9f-954444e527a3",
+            "Value": {
+                "id": "5d2e1637-19af-4dab-8a8b-4bd74bd1c6e5",
+                "resourcePath": "sprites\\spr_speed1_hover\\spr_speed1_hover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "aee7d582-770c-4031-8411-9930d39f7afd",
+            "Value": {
+                "id": "c4e94990-7451-45e5-b7b5-27118d5ab652",
+                "resourcePath": "objects\\o_bourgogne\\o_bourgogne.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b138bb23-912d-452d-80f4-b33d1f135085",
+            "Value": {
+                "id": "0f5e8f15-e090-47a9-b2cd-6a7bcfbf4c65",
+                "resourcePath": "sprites\\spr_bretagne_quarantined\\spr_bretagne_quarantined.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b22de5b4-2b3f-4b04-8372-8b4ed2b5801d",
+            "Value": {
+                "id": "0d1fb9ad-cdac-4c4d-b5ba-978d7f17e37f",
+                "resourcePath": "views\\b22de5b4-2b3f-4b04-8372-8b4ed2b5801d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b457de92-7943-4bea-bd87-0f7cda8505fb",
+            "Value": {
+                "id": "37191074-ca52-4303-bff9-a6f7aef2de2e",
+                "resourcePath": "fonts\\font_console\\font_console.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "b471b469-ad46-4dd6-b669-454a6cdc7bf8",
+            "Value": {
+                "id": "e4d7b9a5-3b84-448e-a62d-52b5de15b509",
+                "resourcePath": "sprites\\spr_options\\spr_options.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b4fc9d5e-2e10-4706-962e-24a4370b6c3a",
+            "Value": {
+                "id": "14af3531-416e-480d-b195-e006ade5e804",
+                "resourcePath": "sprites\\spr_speed3\\spr_speed3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b64d967c-360e-4252-b3e0-f9bb792e33b1",
+            "Value": {
+                "id": "2beb6b05-621f-454e-b7eb-aa46f17d74f0",
+                "resourcePath": "sprites\\spr_normandie\\spr_normandie.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b944de84-1d8c-4e8e-844d-d23eb3bcf81f",
+            "Value": {
+                "id": "42a81122-f3ba-4bce-86be-5857b114002d",
+                "resourcePath": "sprites\\spr_paca\\spr_paca.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bb76cb81-6e4f-4d6d-a01c-67f1d62bf5cc",
+            "Value": {
+                "id": "2d437246-9421-4345-b575-aa9a38dc2dc8",
+                "resourcePath": "objects\\o_ile_de_france\\o_ile_de_france.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "be1bbf40-1c52-4fe3-9309-d9a059423419",
+            "Value": {
+                "id": "5477573b-2f62-46dc-a002-297b237388d7",
+                "resourcePath": "objects\\o_popularity\\o_popularity.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bed1cd09-e620-435a-af48-6d7ea27d954d",
+            "Value": {
+                "id": "21184dd1-0590-4061-a676-44f53ce0c16e",
+                "resourcePath": "sprites\\spr_button_lockdown_unavailable\\spr_button_lockdown_unavailable.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c17e9679-b013-4d26-90e5-d4062d3127ea",
+            "Value": {
+                "id": "25d25e12-f9b3-4710-b5d7-8f2df8404de2",
+                "resourcePath": "sprites\\spr_ile_de_france\\spr_ile_de_france.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c1cce445-3ca4-46f9-b34d-ab7033b567e4",
+            "Value": {
+                "id": "7577378e-81ec-41ee-bb44-b25b61318a9e",
+                "resourcePath": "rooms\\room_main\\room_main.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c3792d43-d92c-4ad5-8ab1-e0f8b2882974",
+            "Value": {
+                "id": "fbec98b8-1965-4e45-a698-d4af985f388a",
+                "resourcePath": "objects\\o_normandie\\o_normandie.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c524fbe8-500d-46cd-8de9-19bffe720ec3",
+            "Value": {
+                "id": "2f19fabd-4300-42d3-be30-bb4470fcb280",
+                "resourcePath": "sprites\\spr_menu\\spr_menu.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c53e5588-30ae-40df-a33e-7d482c1482a9",
+            "Value": {
+                "id": "5d643bcc-60fc-4cff-8c4e-de9982ce0d4e",
+                "resourcePath": "sprites\\spr_game_won\\spr_game_won.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c5a78a8f-f58f-40a7-8fdb-2f165e88aa20",
+            "Value": {
+                "id": "7c0d901d-6ee5-43f6-82cb-39df22ff37ca",
+                "resourcePath": "sprites\\spr_pays_de_la_loire_quarantined\\spr_pays_de_la_loire_quarantined.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ca42ee32-39a0-4d14-9e97-e49b83c10bf1",
+            "Value": {
+                "id": "7eacb6f6-2ad7-4bb6-9cba-2aac8898b5ec",
+                "resourcePath": "objects\\o_haut_france\\o_haut_france.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "0a2f04a1-dd2e-45e2-a103-6b15ed4ae17e",
+                "resourcePath": "options\\windows\\options_windows.yy",
+                "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cca0f8cc-745c-4752-9dec-1823feb64b5e",
+            "Value": {
+                "id": "2b02ea18-4725-4c8a-9a04-358c14583e67",
+                "resourcePath": "sprites\\spr_speed2\\spr_speed2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cd0c1991-e119-4336-8f1c-1f022e8880ba",
+            "Value": {
+                "id": "fdee0cd9-bb8c-4fff-86c2-13a906cc373b",
+                "resourcePath": "views\\cd0c1991-e119-4336-8f1c-1f022e8880ba.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cd8e3203-fdd3-4fea-a1b2-e475fc3db9ec",
+            "Value": {
+                "id": "37bdf035-907b-47b1-b853-70c6758e0c68",
+                "resourcePath": "views\\cd8e3203-fdd3-4fea-a1b2-e475fc3db9ec.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cf865ca4-e2df-426c-b5c6-b94bd224165e",
+            "Value": {
+                "id": "9d9bf85b-43b6-4683-bdab-c0d4492a35d4",
+                "resourcePath": "sprites\\spr_haut_de_france\\spr_haut_de_france.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d09a2c96-9239-422b-800b-f912a0533948",
+            "Value": {
+                "id": "55a05ae0-dcb4-4df5-8286-ffa6659ffc9d",
+                "resourcePath": "scripts\\debug\\debug.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "d9823865-dc58-45b7-b666-040ef309366a",
+            "Value": {
+                "id": "797caea7-f7d4-4725-8864-8ca87690067d",
+                "resourcePath": "views\\d9823865-dc58-45b7-b666-040ef309366a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "da58af98-1595-4b69-9cc7-eae8c7ef89d0",
+            "Value": {
+                "id": "80024c7c-65f8-4dd4-8901-16235e66b207",
+                "resourcePath": "sprites\\spr_button_quarantine_hover\\spr_button_quarantine_hover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dbe02ef6-66dc-4bdc-bcc3-7337d9adf273",
+            "Value": {
+                "id": "b7da903a-5801-4703-a492-719a186bcd24",
+                "resourcePath": "views\\dbe02ef6-66dc-4bdc-bcc3-7337d9adf273.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "de0362d6-3091-42c7-bb9d-8db1c3c635eb",
+            "Value": {
+                "id": "89b1ec0d-93c4-416b-a7d9-7e6cfa43e1df",
+                "resourcePath": "sprites\\spr_ile_de_france_quarantined\\spr_ile_de_france_quarantined.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "de89f0fc-6f67-4264-b3f8-ff9f85338062",
+            "Value": {
+                "id": "b3c1ca28-98a4-43f5-8d7d-6bbf1e3bdf9b",
+                "resourcePath": "objects\\o_medical\\o_medical.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e3dc7531-52d5-45a0-99a5-091c7f55c71c",
+            "Value": {
+                "id": "623eb263-3c9e-4383-8fc6-b2cbed061a3d",
+                "resourcePath": "views\\e3dc7531-52d5-45a0-99a5-091c7f55c71c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "905367ef-1ea5-4141-b81d-2f5b5163d740",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e42e5cbe-92d0-4e4a-a0c6-3250568e0225",
+            "Value": {
+                "id": "27b72436-3c6e-4049-81fc-60b17f0015cb",
+                "resourcePath": "objects\\o_occitanie\\o_occitanie.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e453eb36-4d86-49fd-9025-d1330dbbcb5b",
+            "Value": {
+                "id": "12354a2d-f47d-4610-b5f6-9b0b14b18cbc",
+                "resourcePath": "sprites\\spr_button_quarantine_unavailable\\spr_button_quarantine_unavailable.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ea738c3c-8c69-44ed-a3aa-3b53491fbde0",
+            "Value": {
+                "id": "1aa8e697-9e95-492e-aeae-c8c20f3fbf5c",
+                "resourcePath": "objects\\o_economics\\o_economics.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eea37ac3-dcac-499b-a9d3-e6b52719e152",
+            "Value": {
+                "id": "5d1a2a81-42a2-4925-8e71-79bbbf8ce6fc",
+                "resourcePath": "sprites\\spr_speed1\\spr_speed1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f364c48e-d2c8-4d7e-857a-1d60e3f4d3fc",
+            "Value": {
+                "id": "1668c3f2-e9cf-4356-8da4-c300dbd34df5",
+                "resourcePath": "sprites\\spr_auverne_rhone_alpes\\spr_auverne_rhone_alpes.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "cd5979c6-7206-4b28-a006-71457ec6bb48",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f43396ab-ae12-4095-9210-dd2654abbd81",
+            "Value": {
+                "id": "8386c717-c853-424f-9f34-0647ee5c6308",
+                "resourcePath": "objects\\o_lockdown\\o_lockdown.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f7e5c4c0-5a0e-4aca-9dad-d2334fca930e",
+            "Value": {
+                "id": "0e7dbcd7-66ef-48b4-b0d0-1e5967355394",
+                "resourcePath": "sprites\\spr_france_noborder\\spr_france_noborder.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f85efd3d-bcec-4ec0-8226-da808afda79d",
+            "Value": {
+                "id": "8c916444-99b6-4be9-b561-1e18d62b2c9d",
+                "resourcePath": "options\\xboxone\\options_xboxone.yy",
+                "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "f8962df7-fa6c-42dc-b716-1ff3f2f69757",
+            "Value": {
+                "id": "28e4f82b-6240-4dd1-9aae-558f7a8f6136",
+                "resourcePath": "sprites\\spr_win_hover\\spr_win_hover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fa564b6b-5967-427b-b4f7-b7aa3a371f10",
+            "Value": {
+                "id": "84a5bd0b-a15c-4ae1-93a7-f6219bb11dbe",
+                "resourcePath": "sprites\\spr_grand_est_quarantined\\spr_grand_est_quarantined.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fcad5e4d-49bf-406f-9393-7232291afc4f",
+            "Value": {
+                "id": "20a2fc6d-aba4-4cb6-bf8e-f8aca0a91288",
+                "resourcePath": "views\\fcad5e4d-49bf-406f-9393-7232291afc4f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fd6aacc2-c8f9-4523-b813-527e25bcf0b4",
+            "Value": {
+                "id": "cd253be5-c14e-4a49-9303-fde905712140",
+                "resourcePath": "sprites\\spr_pause_hover\\spr_pause_hover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fe440635-8e99-4a4d-a118-ef4ab6966ede",
+            "Value": {
+                "id": "13efdd77-0131-4dde-8dd8-41df5da8412d",
+                "resourcePath": "views\\fe440635-8e99-4a4d-a118-ef4ab6966ede.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fe8db346-87a1-4f43-8a9e-c2f035a3904c",
+            "Value": {
+                "id": "cac5e7f0-3f93-4959-8d40-acc99b5cb268",
+                "resourcePath": "sprites\\spr_menu_newgame_hover\\spr_menu_newgame_hover.yy",
+                "resourceType": "GMSprite"
+            }
+        }
+    ],
+    "script_order": [
+        "d09a2c96-9239-422b-800b-f912a0533948",
+        "828cd422-871e-4885-9e91-c2f0157dd35d",
+        "62483276-273c-4742-9d10-ee662507c50f"
+    ],
+    "tutorial": ""
+}
